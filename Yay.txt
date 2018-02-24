@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	 <title>Stuff</title>
+	</head>
+	
+	<body>
+		<p>Hello my name is Sierra Stark</>
+		<h1>Ice Cream!!!!</h1>
+		
+		<img src="yay.jpg" alt="Ice Cream" height="275" width="275"> 
+		
+		<h3>BOOOKS</h3>
+		
+		<img src="Books.jpg" alt="Books" height="275" width="275"> 
+		
+		
+		<img src="icecream.jpg" alt="Yay" height="275" width="275"> 
+		
+		
+	</body>
+</html>
